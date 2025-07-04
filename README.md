@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ML-dev and student 🤗 
 ---------------------  
 * BMSTU Bio Tech & VK Education ML-track graduate 👨‍🎓
-* ML & AI developer 🧑‍💻  * 🌍  I'm based in Moscow, Russia
+* ML & AI developer 🧑‍💻
+* 🌍  I'm based in Moscow, Russia
 * 🖥️  See my portfolio at [Achievments](http://github.com/4ervonec19/my-score)
 * ✉️  You can contact me at [4ervonec1@mail.ru](mailto:4ervonec1@mail.ru)
 * ⚡  Sports enthusiast in all sports, Lokomotiv Yaroslavl Ice Hockey Club fan 🚂 🏒 🚨
