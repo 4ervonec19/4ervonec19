@@ -7,21 +7,31 @@ ML-dev and student 🤗
 * 🌍  I'm based in Moscow, Russia
 * 🖥️  See my portfolio at [Achievments](http://github.com/4ervonec19/my-score)
 * ✉️  You can contact me at [4ervonec1@mail.ru](mailto:4ervonec19@mail.ru)
-* ⚡  Sports enthusiast in all sports, Lokomotiv Yaroslavl Ice Hockey Club fan 🚂 🏒 🚨
-
+* ⚡  Sports enthusiast in all sports, Lokomotiv Yaroslavl Ice Hockey Club fan 🚂🏒🚨
+------------------------------------------  
 ### Skills  
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" title="MacOS"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes"/></a> </p> 
+
+
 
  ### Socials  
  <p align="left"> <a href="https://www.github.com/4ervonec19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.x.com/4ervonec19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
  
-### Badges
-<b>Top Repositories</b>
+------------------------------------------  
 
-<div width="100%" align="center"><a href="https://github.com/4ervonec19/vk-video-intern-logo-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=vk-video-intern-logo-detection&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/4ervonec19/neural-networks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=neural-networks&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br />
+### Projects
 
-<br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/4ervonec19/vk-video-intern-logo-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=vk-video-intern-logo-detection&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
-<div width="100%" align="center"><a href="https://github.com/4ervonec19/ML" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=ML&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/1mizhgun1/Purify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1mizhgun1&repo=Purify&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/ark2016/VK-Technopark-project-2024/tree/preliminary-research-branch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ark2016&repo=VK-Technopark-project-2024&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+
+
 
 
