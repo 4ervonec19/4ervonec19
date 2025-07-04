@@ -6,7 +6,7 @@ ML-dev and student 🤗
 * ML & AI developer 🧑‍💻
 * 🌍  I'm based in Moscow, Russia
 * 🖥️  See my portfolio at [Achievments](http://github.com/4ervonec19/my-score)
-* ✉️  You can contact me at [4ervonec1@mail.ru](mailto:4ervonec19@mail.ru)
+* ✉️  You can contact me at [4ervonec19@mail.ru](mailto:4ervonec19@mail.ru)
 * ⚡  Sports enthusiast in all sports, Lokomotiv Yaroslavl Ice Hockey Club fan 🚂🏒🚨
 --------------------
 ### Skills  
