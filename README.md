@@ -18,9 +18,9 @@ ML-dev and student 🤗
 ### Badges
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/4ervonec19/vk-video-intern-logo-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=vk-video-intern-logo-detection&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/4ervonec19/neural-networks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=neural-networks&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br />
+<div width="100%" align="center"><a href="https://github.com/4ervonec19/vk-video-intern-logo-detection" align="left"><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=vk-video-intern-logo-detection&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/4ervonec19/neural-networks" align="right"><img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=neural-networks&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br />
 
 <br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/4ervonec19/ML" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=ML&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/4ervonec19/ML" align="left"><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=ML&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
