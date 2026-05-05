@@ -18,18 +18,6 @@ ML-dev and student 🤗
  
 ---------------------
 
-### Projects
-
-<div width="100%" align="center"><a href="https://github.com/4ervonec19/vk-video-intern-logo-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=4ervonec19&repo=vk-video-intern-logo-detection&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/1mizhgun1/Purify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1mizhgun1&repo=Purify&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ark2016/VK-Technopark-project-2024/tree/preliminary-research-branch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ark2016&repo=VK-Technopark-project-2024&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-
 
 
 
