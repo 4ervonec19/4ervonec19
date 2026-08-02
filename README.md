@@ -3,6 +3,7 @@ Hi, I'm Alex
 ML-dev and student 🤗 
 ---------------------  
 * BMSTU Bio Tech & VK Education ML-track graduate 👨‍🎓
+* Currently cybersecurity master's student at MEPhI 🔐
 * ML & AI developer 🧑‍💻
 * 🌍  I'm based in Moscow, Russia
 * 🖥️  See my portfolio at [Achievments](http://github.com/4ervonec19/my-score)
